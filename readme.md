@@ -1,5 +1,7 @@
 # Twitter Sonification
 
+![alt text](./screenshot.png)
+
 “#CEE” is a MaxMSP patch that searches for tweets, translates them to data,
 and outputs them to non-speech audio to convey the information. This technique is
 known as sonification, that is translating data sets to an audilbe form.
